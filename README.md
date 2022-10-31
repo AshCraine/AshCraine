@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...JavaScript/HTML/CSS
 - 🤔 I’m looking for help with ... JavaScript
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [LinkedIn Account](www.linkedin.com/in/ashtoncraine)
+- 📫 How to reach me: ... [LinkedIn Account](https://www.linkedin.com/in/ashtoncraine)
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... I collect warhammer figures and try to paint them.
 -->
