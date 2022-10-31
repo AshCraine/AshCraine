@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... JavaScript
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [LinkedIn Account](https://www.linkedin.com/in/ashtoncraine)
-- 😄 Pronouns: ... he/him
+- 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I collect warhammer figures and try to paint them.
 -->
